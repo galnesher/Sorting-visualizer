@@ -6,7 +6,7 @@
 
 
 ### Demo Live: https://gals-sorting-visualizer-f4d92.web.app/
-![Home page](https://res.cloudinary.com/gal-nesher/image/upload/v1629295750/l8bpepfbm4pyjgbdjkrl.png)
+![Home page](https://res.cloudinary.com/gal-nesher/image/upload/v1629296359/fszqtxfu7claclrj1h6t.png)
 
 
 ## Setup
